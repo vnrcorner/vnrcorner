@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnrcorner" alt="vnrcorner" /></a> </p>
 
-- 🔭 I’m currently working on [My own website](👀)
+- 🔭 I’m currently working on [My own website](https://vnrcorner.tech)
 
 - 🌱 I’m currently learning **Web Design**
 
